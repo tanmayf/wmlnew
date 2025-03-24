@@ -5,4 +5,4 @@ OWNER_ID = 891959176
 UPSTREAM_REPO = "https://github.com/tanmayf/mlw-upstream"
 UPSTREAM_BRANCH = "main"
 DATABASE_URL = "mongodb+srv://orzipdrin:w3WCKeMMR8Qg12zQ@cluster0.7p8qh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-BASE_URL = ""
+BASE_URL = "https://sff2-0948d85cacb5.herokuapp.com/"
