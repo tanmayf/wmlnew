@@ -22,6 +22,7 @@ lxml
 motor
 natsort
 par2cmdline-turbo
+python-dotenv
 pillow
 psutil
 pycountry
