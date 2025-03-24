@@ -4,5 +4,5 @@ TELEGRAM_HASH = "c55934364222dc3d4155320d2ced1359"
 OWNER_ID = 891959176
 UPSTREAM_REPO = ""
 UPSTREAM_BRANCH = "wzv3"
-DATABASE_URL = "mongodb+srv://errinnmar:PmCx7sH134W7iHZb@cluster0.vclm2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+DATABASE_URL = "mongodb+srv://orzipdrin:w3WCKeMMR8Qg12zQ@cluster0.7p8qh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 BASE_URL = ""
