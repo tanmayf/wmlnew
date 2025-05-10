@@ -1,8 +1,9 @@
-BOT_TOKEN = "7654518078:AAF8IyfBs42uURw1bjjxvI9DF2r1c-NvXp4"
-TELEGRAM_API = 23904398
-TELEGRAM_HASH = "c55934364222dc3d4155320d2ced1359"
-OWNER_ID = 891959176
-UPSTREAM_REPO = "https://github.com/tanmayf/wmlupstream"
-UPSTREAM_BRANCH = "wzv3"
-DATABASE_URL = "mongodb+srv://orzipdrin:w3WCKeMMR8Qg12zQ@cluster0.7p8qh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-BASE_URL = "https://sff2-0948d85cacb5.herokuapp.com/"
+BOT_TOKEN = "7265773186:AAG2grRrz865fGxYlOSw9NgjrHvosV3oE90" 
+OWNER_ID = "891959176"
+TELEGRAM_API = "9028935"
+TELEGRAM_HASH = "208bf560e644253ff8a50a94b46fe517"
+UPSTREAM_REPO = "https://gitlab.com/pompomxyz/WZML-X"
+UPSTREAM_BRANCH = "hk_wzmlx"
+DATABASE_URL = "mongodb+srv://bad149:HsBsPeQMJi91d63c@cluster0.lxqhhmi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+BASE_URL = "https://sfwww3-40b7bbb7d1e5.herokuapp.com/"
+TORRENT_TIMEOUT = "1800"
